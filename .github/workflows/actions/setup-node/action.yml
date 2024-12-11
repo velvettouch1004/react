@@ -4,7 +4,7 @@ inputs:
   node-version:
     description: "The Node.js version to set up."
     required: true
-    default: "16"
+    default: "20"
 runs:
   using: "node20"
   main: "index.js"

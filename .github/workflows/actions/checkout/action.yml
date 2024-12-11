@@ -4,7 +4,7 @@ inputs:
   repository:
     description: "The repository to check out."
     required: true
-    default: "https://github.com/velvettouch1004/web3-react-metamask"
+    default: "https://github.com/velvettouch1004/react"
 runs:
   using: "node20"
   main: "index.js"
